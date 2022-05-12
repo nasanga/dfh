@@ -1,6 +1,6 @@
 anytree
 appdirs
-aria2p
+https://github.com/nasanga/asiyah/archive/refs/tags/0.11.2.zip
 attrdict
 beautifulsoup4
 cfscrape
@@ -21,7 +21,7 @@ pyrogram
 python-dotenv
 python-magic
 python-telegram-bot
-qbittorrent-api
+https://github.com/nasanga/dgjug/archive/refs/tags/v2022.4.30.zip
 requests
 six
 telegraph
